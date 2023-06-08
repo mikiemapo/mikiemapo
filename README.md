@@ -1,6 +1,6 @@
 <div style="background-color: white;">
 
-<h1 align="center">Hi 👋, I'm Michael Mapfumo</h1>
+<h1 align="center">Greetings, I'm Michael Mapfumo</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on **AI Gora**
