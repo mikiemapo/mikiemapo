@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available here on GitHub
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/michael-mapfumo-b6385086/](https://www.linkedin.com/in/michael-mapfumo-b6385086/)
-
 - 💬 Ask me about **HTML 5 and CSS**
 
 - 📫 How to reach me **mike.mapfumo@outlook.com**
