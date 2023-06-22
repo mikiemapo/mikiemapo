@@ -7,15 +7,13 @@
 
 - 🌱 I’m currently learning **Python, JavaScript and React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mikiemapo](https://github.com/mikiemapo)
+- 👨‍💻 All of my projects are available here on GitHub
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/michael-mapfumo-b6385086/](https://www.linkedin.com/in/michael-mapfumo-b6385086/)
 
 - 💬 Ask me about **HTML 5 and CSS**
 
 - 📫 How to reach me **mike.mapfumo@outlook.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/michael-mapfumo-b6385086/](https://www.linkedin.com/in/michael-mapfumo-b6385086/)
 
 - ⚡ Fun fact **I speak multiple languages**
 
